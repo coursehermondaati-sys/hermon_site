@@ -8,7 +8,7 @@ body {
   margin: 0;
   padding: 0;
   direction: rtl;
-  background: #f0c040;
+  background: #ffffff;
   color: #333;
 }
 
@@ -112,7 +112,7 @@ nav > ul > li > a.active {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: url('team_photo.jpeg') center/cover no-repeat;
+  background: url('https://static.wixstatic.com/media/bd066e_5dfd80984a6242e49b217a430dfb866ff000.jpg/v1/fill/w_1200,h_677,al_c,q_85,enc_avif,quality_auto/bd066e_5dfd80984a6242e49b217a430dfb866ff000.jpg') center/cover no-repeat;
 }
 
 .page-header {
