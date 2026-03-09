@@ -91,13 +91,13 @@ nav > ul > li > a.active {
 
 .dropdown:hover .dropdown-menu { display: block; }
 
-.dropdown-menu li a {
-  color: white;
-  padding: 10px 20px;
-  display: block;
-  font-size: 14px;
-  font-weight: 400;
-  transition: background 0.15s;
+   .dropdown-menu li a {
+   color: white;
+   padding: 10px 20px;
+   display: block;
+   font-size: 14px;
+   font-weight: 400;
+   transition: background 0.15s;
 }
 
 .dropdown-menu li a:hover { background: rgba(255,255,255,0.12); }
@@ -106,13 +106,13 @@ nav > ul > li > a.active {
    HERO / PAGE HEADER
 =========================== */
 .hero {
-  position: relative;
-  min-height: 460px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  background: url('https://github.com/coursehermondaati-sys/hermon_site/blob/39bf74b33cdccfcbdf6d12943118a5d968bef992/images/WhatsApp%20Image%202026-03-05%20at%2015.15.17.jpeg?raw=true') center/cover no-repeat;
+   position: relative;
+   min-height: 460px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+background: url('https://raw.githubusercontent.com/coursehermondaati-sys/hermon_site/39bf74b33cdccfcbdf6d12943118a5d968bef992/images/WhatsApp%20Image%202026-03-05%20at%2015.15.17.jpeg')
 }
 
 .page-header {
